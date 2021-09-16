@@ -1,0 +1,11 @@
+[package]
+name = "gst-segment"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gstreamer = "0.17.4"
+glib = "0.14.5"
+colored = "2.0.0"
